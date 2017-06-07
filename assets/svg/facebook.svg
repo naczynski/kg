@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="youtube.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1080"
+     inkscape:window-height="1892"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="2.7547702"
+     inkscape:cx="57.535709"
+     inkscape:cy="14.27271"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <path
+     d="M 16,0 C 7.164,0 0,7.164 0,16 0,24.836 7.164,32 16,32 24.836,32 32,24.836 32,16 32,7.162 24.836,0 16,0 z m 4.136,15.998 c 0,0 -2.622,0.002 -2.622,0.002 0,0 -0.002,9.6 -0.002,9.6 0,0 -3.598,0 -3.598,0 0,0 0,-9.6 0,-9.6 0,0 -2.4,0 -2.4,0 0,0 0,-3.308 0,-3.308 0,0 2.4,-0.002 2.4,-0.002 0,0 -0.004,-1.948 -0.004,-1.948 0,-2.7 0.732,-4.342 3.91,-4.342 0,0 2.648,0 2.648,0 0,0 0,3.31 0,3.31 0,0 -1.656,0 -1.656,0 -1.238,0 -1.298,0.462 -1.298,1.324 0,0 -0.004,1.656 -0.004,1.656 0,0 2.976,0 2.976,0 0,0 -0.35,3.308 -0.35,3.308 z"
+     id="path-5"
+     style="fill:#ffffff;fill-rule:evenodd"
+     inkscape:connector-curvature="0" />
+</svg>
